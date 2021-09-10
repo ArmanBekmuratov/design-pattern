@@ -1,0 +1,5 @@
+package com.arman.basepatterns.behavioral.state;
+
+public interface Activity {
+    void justDoIt();
+}
